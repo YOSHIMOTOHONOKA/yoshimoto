@@ -1,0 +1,15 @@
+.loved {
+    color: red !important;
+  }
+  .notloved {
+    color: blue !important;
+
+  }
+
+  body {
+    background-color: rgb(236, 236, 183); /* 背景色を黄色に設定 */
+}
+/* 新しい背景色を指定 */
+.custom-navbar-bg {
+  background-color: rgb(140, 181, 148); /* 例: 緑色に設定 */
+}
